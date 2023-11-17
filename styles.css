@@ -1,0 +1,25 @@
+#smallBox{
+    text-align: center;
+    padding: 125px;
+    font-size: larger;
+}
+#Sentence{
+    font-size: larger;
+}
+body {
+    background-color: black;
+    color: white;
+}
+#picture1{
+    text-align: center;
+    padding: 100px;
+    padding-left: 600px;
+    padding-top: 100px;
+}
+#changeButton{
+    padding: 20px;
+  margin-top: 10px;
+  background-color:purple;
+  box-sizing: content-box;
+  cursor: pointer;
+}
